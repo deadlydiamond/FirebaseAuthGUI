@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "563574378368",
+    "firebase_url": "https://my-project-1523714006398.firebaseio.com",
+    "project_id": "my-project-1523714006398",
+    "storage_bucket": "my-project-1523714006398.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563574378368:android:edc016d012467bcd",
+        "android_client_info": {
+          "package_name": "com.example.seekm.uitrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563574378368-36p57ikbv9klk9k413f1i1ca1kna17e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkw-SS-bVi8VvbpxGMqokYF6rLaP82WPY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
